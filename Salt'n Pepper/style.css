@@ -1,0 +1,343 @@
+body {
+    background-color: #222222
+}
+
+.my-dv {
+    background-color: #222222 !important;
+    border-bottom: 1px solid #e9082b !important;
+    font-family: sans-serif !important;
+}
+
+.theme-btn {
+    width: 200px;
+    background-color: #e9082b !important;
+    color: azure !important;
+}
+
+.caro {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.my-card {
+    height: auto !important;
+    background-image: url(img/wp10699068-salt-and-pepper-wallpapers.jpg) !important;
+    font-family: sans-serif !important;
+    color: white !important;
+    border-top: 1px solid #e9082b !important;
+    border-bottom: 1px solid #e9082b !important;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-radius: 0px !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+.welcome>p {
+    font-size: 100px;
+    letter-spacing: 7px;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.res {
+    text-align: center;
+}
+
+.res>h4 {
+    letter-spacing: 5px;
+
+}
+
+.our {
+    text-align: center;
+    margin-top: 60px;
+
+
+}
+
+.our>h2 {
+    font-size: 35px;
+}
+
+.para {
+    text-align: center;
+}
+
+.para>p {
+    font-size: medium;
+}
+
+.my-box {
+    height: 200px !important;
+    width: auto !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.franchise {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.txt {
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.mall {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.mall>h1 {
+    color: #e9082b;
+    letter-spacing: 2px;
+
+}
+
+.mall-para {
+    display: flex;
+    justify-content: center;
+}
+
+.mall-para>p {
+    color: white;
+    text-align: center;
+}
+
+.box-1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 250px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.box-2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 250px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.box-3 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/3.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 250px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+
+}
+
+.box-1-txt {
+    display: flex;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box-2-txt {
+    display: flex;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box-3-txt {
+    display: flex;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-align: center;
+}
+
+.box-1-p {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box-2-p {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.box-3-p {
+    text-align: center;
+    color: #FFFFFF;
+}
+
+hr {
+    border-top: 2px solid #818181;
+}
+
+.dd {
+    margin-top: 100px;
+}
+
+.box-4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/4.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+
+}
+
+.box-5 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/5.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+
+}
+
+.box-6 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 300px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.box-7 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/7.jpg);
+    background-position: center;
+    background-size: cover;
+    height: auto !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+    padding: 50px;
+}
+
+.bb {
+    color: #FFFFFF;
+    text-align: center;
+
+}
+
+.box-8 {
+
+    height: 150px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #e9082b;
+    border-radius: 4px 4px 4px 4px;
+    padding: 50px;
+}
+
+.box-9 {
+
+    height: 150px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #e9082b;
+    border-radius: 4px 4px 4px 4px;
+    padding: 50px;
+}
+
+.box-10 {
+
+    height: 150px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #e9082b;
+    border-radius: 4px 4px 4px 4px;
+    padding: 50px;
+}
+
+.box-11 {
+
+    height: 150px !important;
+    border-style: solid;
+    border-width: 3px 3px 3px 3px;
+    border-color: #e9082b;
+    border-radius: 4px 4px 4px 4px;
+    padding: 50px;
+}
+
+.box-811-p {
+    color: black;
+    font-weight: bold;
+}
+
+.my-footer {
+    background-color: #222222 !important;
+    color: white !important;
+
+}
+
+.my-footer-1 {
+    border-bottom: 1px solid #e9082b !important;
+}
+
+.footer-div {
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 610px) {
+    .welcome>p {
+        font-size: 70px;
+        letter-spacing: 2px;
+        font-weight: lighter;
+        text-align: center;
+        margin-top: 60px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .welcome>p {
+        font-size: 50px;
+        letter-spacing: 2px;
+        font-weight: lighter;
+        text-align: center;
+        margin-top: 60px;
+    }
+}
+
+@media only screen and (max-width: 308px) {
+    .welcome>p {
+        font-size: 40px;
+        letter-spacing: 2px;
+        font-weight: lighter;
+        text-align: center;
+        margin-top: 60px;
+    }
+}
